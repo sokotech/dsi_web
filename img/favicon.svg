@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="79.148216mm"
+   height="79.148216mm"
+   viewBox="0 0 79.148216 79.148216"
+   version="1.1"
+   id="svg8"
+   inkscape:export-filename="/home/jose/www/mesh/favicon.png"
+   inkscape:export-xdpi="10.269341"
+   inkscape:export-ydpi="10.269341"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="favicon.svg">
+  <defs
+     id="defs2">
+    <style
+       id="style3688">.cls-1{fill:#fff;}</style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0324737"
+     inkscape:cx="112.42458"
+     inkscape:cy="149.57143"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-global="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1223"
+     inkscape:window-height="779"
+     inkscape:window-x="57"
+     inkscape:window-y="21"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-2.0032738,-22.324703)">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#cccccc;stroke-width:0.52916664px;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:5.2916666;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect3717"
+       width="78.619049"
+       height="78.619049"
+       x="2.2678571"
+       y="22.589287"
+       ry="2.7337377"
+       rx="2.8639157" />
+    <g
+       data-name="Layer 2"
+       id="Layer_2"
+       transform="matrix(1.0316413,0,0,1.0316413,11.500662,37.427626)">
+      <g
+         data-name="Layer 1"
+         id="Layer_1-2">
+        <path
+           id="path3694"
+           d="M 0,44.85 5.45,2.22 a 1.24,1.24 0 0 1 1.26,-1 h 10.8 a 1.28,1.28 0 0 1 1.2,0.75 l 8.86,19.15 c 0.41,1 2.84,1 3.25,0 L 39.62,2 a 1.28,1.28 0 0 1 1.2,-0.76 h 10.8 a 1.24,1.24 0 0 1 1.26,1 l 5.43,42.63 a 1.2,1.2 0 0 1 -1.26,1.35 H 46.83 a 1.26,1.26 0 0 1 -1.27,-1 L 42.14,25.66 a 1.32,1.32 0 0 0 -2.46,-0.27 l -7.92,20.09 a 1.27,1.27 0 0 1 -1.18,0.72 h -3.4 a 1.28,1.28 0 0 1 -1.2,-0.74 l -7.35,-19.9 a 1.32,1.32 0 0 0 -2.46,0.25 l -3.4,19.4 a 1.26,1.26 0 0 1 -1.27,1 H 1.28 A 1.2,1.2 0 0 1 0,44.85 Z"
+           class="cls-1"
+           inkscape:connector-curvature="0"
+           style="fill:#ffffff" />
+      </g>
+    </g>
+  </g>
+</svg>

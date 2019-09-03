@@ -1,0 +1,4 @@
+¿De qué hablamos cuando hablamos de electrónica o programación? 
+¿Qué es la robótica? ¿Por qué importan el software y el hardware libre?
+¿Qué es la placa Arduino UNO? 
+<br/><br/>En este módulo aprenderás ésto y mucho más.

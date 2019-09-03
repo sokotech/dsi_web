@@ -1,0 +1,5 @@
+Una guía para entender la seguridad de manera integral y su relación con las infraestructuras de información y 
+comunicación. 
+<br/><br/>
+Incluye estrategias para la resistencia y la gestión de identidades, además de ejercicios prácticos y de 
+evaluación y dinámicas grupales.

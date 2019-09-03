@@ -1,0 +1,24 @@
+Cambiar algo la página:
+   Título
+   Proyectos a pantalla completa
+   
+
+Secciones
+	Portada
+   Intro
+   Grid proyectos
+	Calendario
+   Contacto/suscripción?
+   	Crear newsletter en mailchimp
+	Foot
+	   
+Proyecto
+
+
+Más
+	Palabras clave (HEAD)
+	Compartir OG
+	Dominio/subdominio
+	Search Console
+	Google Analyticsw
+
