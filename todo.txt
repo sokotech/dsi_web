@@ -1,13 +1,9 @@
-Cambiar algo la página:
-   Título
-   Proyectos a pantalla completa
-   
+
 
 Secciones
 	Portada
    Intro
    Grid proyectos
-	Calendario
    Contacto/suscripción?
    	Crear newsletter en mailchimp
 	Foot
@@ -16,9 +12,14 @@ Proyecto
 
 
 Más
+	Página dinámica o por una por proyecto?
+		
 	Palabras clave (HEAD)
+		
 	Compartir OG
-	Dominio/subdominio
+	Dominio
+	
+	Cookies
 	Search Console
 	Google Analyticsw
 
